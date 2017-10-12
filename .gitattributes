@@ -1,0 +1,12 @@
+test/sample-tiffs filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/G32DS.TIF filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/G4.TIF filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/G4S.TIF filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/GMARBLES.TIF filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/MARBIBM.TIF filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/MARBLES.TIF filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/large-file.tif filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/G32D.TIF filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/G31DS.TIF filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/hires_tif.tif filter=lfs diff=lfs merge=lfs -text
+test/sample-tiffs/G31D.TIF filter=lfs diff=lfs merge=lfs -text
